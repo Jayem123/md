@@ -2,6 +2,5 @@
   "dependencies": {
    
     "next": "^15.2.2"
-    "daisyui": "^4.12.23",
   }
 }
